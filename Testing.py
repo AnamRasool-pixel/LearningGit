@@ -1,3 +1,3 @@
-print("Hello Anam & Khubaib")
+print("Hello Ali & Khubaib")
 
 print("Hello Khubaib. Learning git together")
